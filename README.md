@@ -1,7 +1,7 @@
 ![dht11](https://user-images.githubusercontent.com/29266933/44546786-aba0c680-a721-11e8-97c2-dd12b20be5f6.jpg)
 ![dth11](https://user-images.githubusercontent.com/29266933/44546785-ab083000-a721-11e8-9b87-1519c774bc74.gif)
 
-# -> Arduino-DHT11-Humidity-Sensor-Nem-ve-Sicaklik-
+# -> Arduino-DHT11-Humidity-Sensor
 # -> İmport DHTLib.Zip
 # -> İmport <LiquidCrystal_I2C.h>
 
