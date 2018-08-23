@@ -1,4 +1,5 @@
-# --> Arduino-DHT11-Humidity-Sensor-Nem-ve-S-cakl-k-
+# -> Arduino-DHT11-Humidity-Sensor-Nem-ve-Sicaklik-
+# -> İmport DHTLib.Zip
 
 #include <dht.h>
 
